@@ -3,8 +3,8 @@ Systematic Compendium of Randomized Controlled Trials on Transcendental Meditati
 Systematic Compendium of Randomized Controlled Trials on Transcendental Meditation (TM)
 
 **Compiled by:** Barry Spivack  
-**Permanent Academic Citation / DOI:** https://doi.org/10.5281/zenodo.24011660  
-**Repository Archive:** https://zenodo.org/records/24011660  
+**Permanent Academic Citation / DOI:** (https://doi.org/10.5281/zenodo.24346241) 
+**Repository Archive:** https://zenodo.org/records/24346241  
 
 ## Overview
 This compendium provides a structured, categorized register of peer-reviewed randomized controlled trials (RCTs) evaluating the Transcendental Meditation (TM) technique. It synthesizes empirical clinical evidence across cardiovascular health, cardiometabolic disease, hypertension, post-traumatic stress disorder (PTSD), psychological resilience, neurophysiology, cognitive performance, educational outcomes, and recidivism rehabilitation.
