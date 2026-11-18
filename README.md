@@ -1,4 +1,4 @@
-# Systematic Compendium of Randomized Controlled Trials and Real-World Evidence on Transcendental Meditation (TM)
+[# Systematic Compendium of Randomized Controlled Trials and Real-World Evidence on Transcendental Meditation (TM)
 
 **Compiled by:** Barry Spivack  
 **Permanent Academic Citation / DOI:** https://doi.org/10.5281/zenodo.24346241  
@@ -18,3 +18,4 @@ This compendium provides a structured, categorized register of peer-reviewed ran
 - **Cognitive & Educational Outcomes:** Fluid intelligence, bilateral EEG coherence, executive function, and academic achievement in adolescents.
 - **Substance Abuse & Criminal Rehabilitation:** Long-term recidivism reduction, parole outcomes, and institutional rule infractions.
 - **Healthcare Economics & Actuarial Data:** Multi-year hospitalisation and physician payment claims analyses.
+](https://github.com/barryspivack/Transcendental-Meditation-research/blob/main/README.md)
